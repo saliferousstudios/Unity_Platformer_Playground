@@ -11,11 +11,11 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Enemies
+  - Ladder
+  - coin
+  - cherry
   - 
   - 
   - 
@@ -52,4 +52,7 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 1743156577
+    locked: 0
+  - name: New Layer
+    uniqueID: 4227878891
     locked: 0
